@@ -1,0 +1,25 @@
+{
+  "updated_at": "2023-07-20T12:34:56.789Z",
+  "channels": [
+    {
+      "id": "cn_cctv1",
+      "name": "CCTV-1 综合",
+      "logo": "https://example.com/logos/cctv1.png",
+      "url": "https://example.com/streams/cctv1.m3u8",
+      "country": "China",
+      "category": "News",
+      "language": "Chinese",
+      "status": true
+    },
+    {
+      "id": "us_nbc",
+      "name": "NBC",
+      "logo": "https://example.com/logos/nbc.png",
+      "url": "https://example.com/streams/nbc.m3u8",
+      "country": "USA",
+      "category": "Entertainment",
+      "language": "English",
+      "status": true
+    }
+  ]
+}
